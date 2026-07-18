@@ -1,0 +1,10 @@
+{
+  "name": "takeover-root",
+  "private": true,
+  "workspaces": [
+    "new-ui-project"
+  ],
+  "scripts": {
+    "build": "npm run build --workspace=new-ui-project"
+  }
+}
