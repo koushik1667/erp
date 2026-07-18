@@ -1,7 +1,0 @@
-{
-  "name": "takeover-root",
-  "private": true,
-  "scripts": {
-    "build": "pnpm --filter new-ui-project run build"
-  }
-}

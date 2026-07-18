@@ -6,9 +6,7 @@ settings:
 
 importers:
 
-  .: {}
-
-  new-ui-project:
+  .:
     dependencies:
       '@react-oauth/google':
         specifier: ^0.13.5
